@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_FractionGUI", "Lab3_FractionGUI.csproj", "{D88D9C28-8B02-4F88-B00B-78DF31AD8643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_FractionGUITests", "..\Lab3_FractionGUITests\Lab3_FractionGUITests.csproj", "{000C23CE-60A1-4A2E-ABCC-0035D7543C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88D9C28-8B02-4F88-B00B-78DF31AD8643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88D9C28-8B02-4F88-B00B-78DF31AD8643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88D9C28-8B02-4F88-B00B-78DF31AD8643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88D9C28-8B02-4F88-B00B-78DF31AD8643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000C23CE-60A1-4A2E-ABCC-0035D7543C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000C23CE-60A1-4A2E-ABCC-0035D7543C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000C23CE-60A1-4A2E-ABCC-0035D7543C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000C23CE-60A1-4A2E-ABCC-0035D7543C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CC571A-FBA3-42C9-8F76-1E851A4AAA8B}
+	EndGlobalSection
+EndGlobal
